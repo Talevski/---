@@ -1,0 +1,2 @@
+# Прв колоквиум МнивИ-2020/2021
+### Jupyter тетратка за дополнителна обработка на [1] A. Algahtani, "Usability Testing of Google Cloud Applications: Students' Perspective," Journal of Technology and Science Education, vol. 9, no. 3, pp. 326-339, 2019
